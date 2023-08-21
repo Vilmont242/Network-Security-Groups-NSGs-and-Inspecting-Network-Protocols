@@ -25,10 +25,10 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>High-Level Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Step 1 Use Wireshark to monitor network traffic involving Azure Virtual Machines as data moves through 
+- Step 2 showing how to put up your guards,  Set up a basic experiment to explore the functioning of Network Security Groups (NSGs).
+- Step 3 Analyze the effects of NSGs on network interactions in azure
+- Step 4 Gain insights from the experiment to enhance Azure VM network security strategies.
 
 <h2>Actions and Observations</h2>
 
