@@ -32,13 +32,21 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>Actions and Observations</h2>
 
-<img src=![image](https://github.com/Vilmont242/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/assets/141773682/dc478cd8-39d1-4b7b-b74a-9a48d66b31b8)
+![image](https://github.com/Vilmont242/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/assets/141773682/dc478cd8-39d1-4b7b-b74a-9a48d66b31b8)
 </p>
 </p>
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In this first step, You'll learn how to use Wireshark, a  tool that lets you observe data flowing to and from Azure Virtual Machines. 
+</p>
+<br />
+
+![image](https://github.com/Vilmont242/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/assets/141773682/bfdf14e7-1524-4473-99ec-e917150fb3dd)
+
+</p>
+<p>
+ In this step, we introduce you to Network Security Groups (NSGs), which act as virtual bouncers for your VMs. You'll learn how to configure NSGs to control incoming and outgoing traffic,
 </p>
 <br />
 
@@ -46,14 +54,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+now we use practical experiments using NSGs to shape and manage network traffic, and we see how NSGs can be tailored to meet specific security and networking requirements
 </p>
 <br /># Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols
