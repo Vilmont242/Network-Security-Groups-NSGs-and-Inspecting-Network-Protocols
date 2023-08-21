@@ -32,8 +32,9 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>Actions and Observations</h2>
 
-<p>
-![image](https://github.com/Vilmont242/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/assets/141773682/03e0c202-91e2-43f0-bd38-8d4c00ca495c)
+<img src=![image](https://github.com/Vilmont242/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/assets/141773682/dc478cd8-39d1-4b7b-b74a-9a48d66b31b8)
+</p>
+</p>
 
 </p>
 <p>
