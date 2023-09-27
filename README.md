@@ -50,8 +50,9 @@ In this first step, You'll learn how to use Wireshark, a  tool that lets you obs
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/Vilmont242/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/assets/141773682/157c2327-6bfc-45cb-8f8e-23543914f488)
+
+
 </p>
 <p>
 now we use practical experiments using NSGs to shape and manage network traffic, and we see how NSGs can be tailored to meet specific security and networking requirements
